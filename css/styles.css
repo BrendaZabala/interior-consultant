@@ -18,8 +18,6 @@ body {
     color: #FFFFFF;
     background-color: #181719;
     padding: 1vh 2vw;
-    /**/
-
     height: 100vh;
     display: flex;
     flex-direction: column;
